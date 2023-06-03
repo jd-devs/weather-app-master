@@ -54,6 +54,10 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [Vue.js](https://vuejs.org/)
 - [Tailwind](https://tailwindcss.com/)
 
+### Figma Design
+
+https://www.figma.com/file/5X3Ao3gEqZPqqKctP7riDF/weather-app?type=design&node-id=0-1&t=u9dLkr72IozvDQV2-0
+
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
